@@ -12,8 +12,8 @@ public class CyclicRotationTest {
         solution = new Solution();
     }
 
-     @DataProvider(name = "cyclic_rotation_test_data")
-  public Object [][] createData1() {
+    @DataProvider(name = "cyclic_rotation_test_data")
+    public Object [][] createData1() {
     return new Object [][] {
       new Object [] { new int[] {1,2,3,4}, 4,  new int[] {1,2,3,4} },
       new Object [] { new int[] {1,2,3,4}, 1,  new int[] {4,1,2,3}  },
