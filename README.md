@@ -15,3 +15,5 @@
 ### 1. Frog Jump
 
 ### 2. Missing Element in an Array
+
+### 3. Minimum difference splitting of an array
