@@ -17,3 +17,7 @@
 ### 2. Missing Element in an Array
 
 ### 3. Minimum difference splitting of an array
+
+## Lesson 4: Counting Elements - 
+
+### 1. Frog River Jump
